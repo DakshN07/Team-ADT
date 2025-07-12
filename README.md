@@ -1,3 +1,24 @@
+# 👥 Team Details 
+
+> 🚀 Problem Statement 3: ReWear – Community Clothing Exchange   
+> Team Name: Team ADT
+
+---
+
+## 🧑‍💻 Team Members
+
+| Name             | Email                         |
+|------------------|-------------------------------|
+| Daksh Nayak      | dakshnayak635@gmail.com       |
+| Ayush Burde      | aayuwork7@gmail.com           |
+| Anshuraj Singh   | singhanshuraj935@gmail.com    |
+| Toshit Rewatkar  | toshitrewatkar3205@gmail.com  |
+
+---
+
+🧭 We’re building ReWear to promote sustainable fashion by enabling peer-to-peer clothing swaps with a clean, minimal tech stack and thoughtful user experience.
+
+
 # ReWear - Sustainable Clothing Exchange Platform
 
 A full-stack web application for sustainable fashion exchange where users can upload unused clothes and either swap them with others or redeem them via a point-based system.
