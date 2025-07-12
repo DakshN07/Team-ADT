@@ -1,11 +1,11 @@
-# 👥 Team Details 
+#  Team Details 
 
-> 🚀 Problem Statement 3: ReWear – Community Clothing Exchange   
+>  Problem Statement 3: ReWear – Community Clothing Exchange   
 > Team Name: Team ADT
 
 ---
 
-## 🧑‍💻 Team Members
+##  Team Members
 
 | Name             | Email                         |
 |------------------|-------------------------------|
@@ -14,16 +14,16 @@
 | Anshuraj Singh   | singhanshuraj935@gmail.com    |
 | Toshit Rewatkar  | toshitrewatkar3205@gmail.com  |
 
----
 
-🧭 We’re building ReWear to promote sustainable fashion by enabling peer-to-peer clothing swaps with a clean, minimal tech stack and thoughtful user experience.
+
+ We’re building ReWear to promote sustainable fashion by enabling peer-to-peer clothing swaps with a clean, minimal tech stack and thoughtful user experience.
 
 
 # ReWear - Sustainable Clothing Exchange Platform
 
 A full-stack web application for sustainable fashion exchange where users can upload unused clothes and either swap them with others or redeem them via a point-based system.
 
-## 🎯 Features
+ Features
 
 ### User Features
 - **Authentication**: JWT-based login/register with Google OAuth support
@@ -33,29 +33,29 @@ A full-stack web application for sustainable fashion exchange where users can up
 - **Dashboard**: View your items, requests, and points
 - **Profile Management**: Update profile information and preferences
 
-### Admin Features
+ Admin Features
 - **User Management**: View, ban/unban users, and manage roles
 - **Item Approval**: Review and approve/reject item listings
 - **Platform Statistics**: Monitor platform usage and activity
 - **Content Moderation**: Ensure quality and appropriate content
 
-## 🛠️ Tech Stack
+ Tech Stack
 
-### Backend
+ Backend
 - **Node.js** with Express.js
 - **MongoDB** with Mongoose ODM
 - **JWT** authentication with Google OAuth
 - **Cloudinary** for image uploads
 - **Multer** for file handling
 
-### Frontend
+Frontend
 - **React** with Vite
 - **Tailwind CSS** for styling
 - **React Router** for navigation
 - **Axios** for API calls
 - **Lucide React** for icons
 
-## 📁 Project Structure
+ Project Structure
 
 ```
 rewear/
@@ -78,15 +78,14 @@ rewear/
 └── README.md
 ```
 
-## 🚀 Getting Started
+ Getting Started
 
 ### Prerequisites
 - Node.js (v18 or higher)
 - MongoDB (local or Atlas)
 - Cloudinary account
 - Google OAuth credentials
-
-### Backend Setup
+ Backend Setup
 
 1. **Navigate to server directory**:
    ```bash
@@ -139,7 +138,7 @@ rewear/
    npm run dev
    ```
 
-## 📚 API Endpoints
+ API Endpoints
 
 ### Authentication
 - `POST /api/auth/register` - User registration
@@ -196,7 +195,7 @@ rewear/
 5. Add authorized redirect URIs
 6. Update Google credentials in your `.env` file
 
-## 🎨 Customization
+ Customization
 
 ### Styling
 The project uses Tailwind CSS for styling. You can customize the design by:
@@ -210,7 +209,7 @@ All React components are modular and reusable. You can:
 - Create new pages in `src/pages/`
 - Extend functionality by adding new routes and API endpoints
 
-## 🚀 Deployment
+ Deployment
 
 ### Backend Deployment
 1. Set up environment variables on your hosting platform
@@ -222,7 +221,7 @@ All React components are modular and reusable. You can:
 2. Deploy the `dist` folder to platforms like Vercel, Netlify, or GitHub Pages
 3. Update API base URL in production
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -230,18 +229,18 @@ All React components are modular and reusable. You can:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 🆘 Support
+ Support
 
 For support and questions:
 - Create an issue in the repository
 - Check the documentation
 - Review the API endpoints
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Real-time notifications
 - Chat system between users
