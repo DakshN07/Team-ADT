@@ -2,9 +2,11 @@
 
 >  Problem Statement 3: ReWear – Community Clothing Exchange   
 > Team Name: Team ADT
-Video Link => [Working Demo](https://vimeo.com/1100841854/dbecf0dc59?share=copy)
+
 
 ---
+Video Link => [Working Demo](https://vimeo.com/1100841854/dbecf0dc59?share=copy)
+
 
 ##  Team Members
 
